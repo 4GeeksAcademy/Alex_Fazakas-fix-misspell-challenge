@@ -57,7 +57,8 @@ https://github.com/breatheco-de/exercise-conditional-profile-card.git
 
 **👉 Por favor sigue estos pasos en** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
-💡 Importante: Recuerda guardar y cargar tu código en GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y cargando el código en su nuevo repositorio usando los comandos `add`, `commit` y `push` desde el terminal git.
+💡 Importante: Recuerda guardar y cargar tu código en GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y cargando el código en su nuevo repositorio usando los comandos `add`, `commit` y `push` desde el terminal git. Debes escribir los siguientes comandos en la terminal para poder arrancar el proyecto: $ npm install y luego $ npm run start.
+
 
 ## 📝Instrucciones:
 
